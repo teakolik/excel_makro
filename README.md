@@ -1,7 +1,7 @@
-### Script Adı
+# Script Adı
 Bosluk_sil.vb
 
-### Nedir Bu Script?
+## Nedir Bu Script?
 
 Basit bir Excel makrosudur. A sütunu içerisindeki tüm değerlerin sağında veya solunda yer alan boşlukları siler.
 
@@ -9,11 +9,7 @@ Basit bir Excel makrosudur. A sütunu içerisindeki tüm değerlerin sağında v
 
 E-posta adreslerinin yer aldığı A sütunu olduğunu varsayalım. Bir programa import edeceksiniz. Ancak e-posta adreslerini yazarken e-posta@example.com&NBSP şeklinde olabilir. Import sorunu ortaya çıkarabilir ve binlerce e-postadan bu boşlukları silmek zulum olacaktır. Uğraşmanıza gerek yok, makroyu yazın ve çalıştırın, birkaç saniye içerisinde boşlukları temizler. 
 
-## Destek
-
-Bana @teakolik veya www.teakolik.com adreslerimden ulaşabilirsiniz. 
-
-### Script Adı
+# Script Adı
 Stun_Karsilastir.vb
 
 ### Nedir Bu Script?
