@@ -20,6 +20,18 @@ Basit bir Excel makrosudur. A ve B sütunlarını karşılaştırıp, C sütunun
 
 İki sütunu karşılaştırabilirsiniz. A sütununda tüm değerler olur. B sütununda diğer değerleriniz. Çalıştırdığınız zaman B1 - B... sütunundaki değeri tek tek A sütununda arar... Bulduklarını C1, C2... olarak C sütununa yazar.
 
+# Script Adı
+TRIM_Hurce_Temizle.vb
+
+### Nedir Bu Script?
+
+Basit bir Excel makrosudur. Seçmiş olduğunuz hücre veya stünlardaki verileri temizler.
+
+## Özellikler
+
+Fare ile seçtiğiniz stün veya hücreler üzerinde bu makroyu çalıştırırsanız seçtiğiniz stunların veya hücrelerin içeriklerindeki boşluk karakterlerini, renkleri ve biçimleri demizler. Saf text haline getirir.
+
+
 ## Destek
 
 Bana @teakolik veya www.teakolik.com adreslerimden ulaşabilirsiniz. 
