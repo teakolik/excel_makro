@@ -33,6 +33,7 @@ Fare ile seçtiğiniz stün veya hücreler üzerinde bu makroyu çalıştırırs
 
 # Script Adı
 belirli_kriterlere_ait_huceleri_silmek.vb
+
 ### Nedir Bu Script?
 
 Basit bir Excel makrosudur. Belirli Kriteri Arar ve Bulduğunu Siler
@@ -45,6 +46,15 @@ Ne amaçla kullanabiliriz?
 
 Bir e-posta databaseniz var diyelim. İçerisinde kurum mailleri + free servis mailleri var. Ben kurum maillerinin dışındaki üyeleri silmek istedim. Bu makroyu yazdım ve start dediğiniz zaman komple uçurdu :)
 
+# Script Adı
+karakterden_oncesini_silmek.vb
+
+### Nedir Bu Script?
+
+Basit bir Excel makrosudur. Belirli Kriteri Arar ve Bulduğunu Siler
+
+## Özellikler
+Kod içerisinde "@" olarak belirtmiş olduğum 9. satırdaki karakteri arar. Bulduğu zaman bu karakterin solunda ne varsa siler.  Ne amaçla kullandığımı şöyle açıklayayım. Bir e-posta listesi vardı elimde. Bana bunların domainleri lazımdı.  teakolik@teakolik.com şeklinde yazılan maili benim teakolik.com'a çevirmem gerekiyordu. Bu makroyu yazdım @karakteri ve öncesini bir güzel temizledi :) 
 
 ## Destek
 
