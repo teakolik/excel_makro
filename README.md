@@ -31,6 +31,20 @@ Basit bir Excel makrosudur. Seçmiş olduğunuz hücre veya stünlardaki veriler
 
 Fare ile seçtiğiniz stün veya hücreler üzerinde bu makroyu çalıştırırsanız seçtiğiniz stunların veya hücrelerin içeriklerindeki boşluk karakterlerini, renkleri ve biçimleri demizler. Saf text haline getirir.
 
+# Script Adı
+belirli_kriterlere_ait_huceleri_silmek.vb
+### Nedir Bu Script?
+
+Basit bir Excel makrosudur. Belirli Kriteri Arar ve Bulduğunu Siler
+
+## Özellikler
+
+Bu makroda 11. satırda görebileceğiniz gibi belirtmiş olduğum @mynet.com @hotmail.com @gmail.com gibi kelimeleri arıyor bulduğu satırları komple siliyor. 
+
+Ne amaçla kullanabiliriz? 
+
+Bir e-posta databaseniz var diyelim. İçerisinde kurum mailleri + free servis mailleri var. Ben kurum maillerinin dışındaki üyeleri silmek istedim. Bu makroyu yazdım ve start dediğiniz zaman komple uçurdu :)
+
 
 ## Destek
 
